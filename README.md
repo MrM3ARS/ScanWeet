@@ -25,11 +25,11 @@ It is a tool that aims to quickly scan the given keywords with the algorithm I d
 Clone the project
 
 ```bash 
-  git clone https://github.com/MrM3ARS/Scanweet.git
+  git clone https://github.com/MrM3ARS/ScanWeet.git
 ```
 
 Go to the project directory
-```bash 
+```bash S
   cd Scanweet
 ```
 
