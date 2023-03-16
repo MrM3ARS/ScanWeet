@@ -38,6 +38,8 @@ Install required packages
 ```bash 
   pip install tweepy
   pip install pyautogui
+  pip install termcolor
+  pip install art
 ```
 
 Run
