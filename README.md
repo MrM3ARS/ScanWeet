@@ -5,6 +5,8 @@ Twitter OSINT tool. It detects the posts containing the keywords you specify and
 
 It is a tool that aims to quickly scan the given keywords with the algorithm I developed and get the most accurate result. It can be used in Cyber Intelligence or OSINT fields.
 
+![Uygulama Ekran Görüntüsü](https://github.com/MrM3ARS/ScanWeet/blob/main/ScanWeet-logo.png)
+
 ## Features
 
 - It searches by filtering the given keywords.
