@@ -30,7 +30,7 @@ Clone the project
 
 Go to the project directory
 ```bash S
-  cd Scanweet
+  cd ScanWeet
 ```
 
 Install required packages
