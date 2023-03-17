@@ -17,11 +17,6 @@ It is a tool that aims to quickly scan the given keywords with the algorithm I d
 
 ## Setup
 
-
-
-
-## Yükleme 
-
 Clone the project
 
 ```bash 
